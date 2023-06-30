@@ -24,7 +24,7 @@
     "@apollo/gateway": "2.2.3",
     "apollo-server": "3.10.2",
     "apollo-server-lambda": "3.10.2",
-    "aws-cdk-lib": "^2.61.0",
+    "aws-cdk-lib": "^2.80.0",
     "aws-xray-sdk": "^3.4.1",
     "cdk-nag": "^2.21.67",
     "constructs": "^10.1.224",
