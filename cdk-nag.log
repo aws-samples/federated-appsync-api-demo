@@ -1,0 +1,74 @@
+[Error at /FederatedAppsyncApiDemoStack/UsersService/ApolloServer/ServiceRole/Resource] AwsSolutions-IAM4: The IAM user, role, or group uses AWS managed policies.
+
+[Error at /FederatedAppsyncApiDemoStack/UsersService/ApolloServer/ServiceRole/DefaultPolicy/Resource] AwsSolutions-IAM5[Resource::*]: The IAM entity contains wildcard permissions and does not have a cdk_nag rule suppression with evidence for those permission.
+
+[Error at /FederatedAppsyncApiDemoStack/UsersService/Api/Resource] AwsSolutions-APIG2: The REST API does not have request validation enabled.
+
+[Error at /FederatedAppsyncApiDemoStack/UsersService/Api/CloudWatchRole/Resource] AwsSolutions-IAM4: The IAM user, role, or group uses AWS managed policies.
+
+[Error at /FederatedAppsyncApiDemoStack/UsersService/Api/DeploymentStage.prod/Resource] AwsSolutions-APIG1: The API does not have access logging enabled.
+
+[Warning at /FederatedAppsyncApiDemoStack/UsersService/Api/DeploymentStage.prod/Resource] AwsSolutions-APIG3: The REST API stage is not associated with AWS WAFv2 web ACL.
+
+[Error at /FederatedAppsyncApiDemoStack/UsersService/Api/DeploymentStage.prod/Resource] AwsSolutions-APIG6: The REST API Stage does not have CloudWatch logging enabled for all methods.
+
+[Error at /FederatedAppsyncApiDemoStack/UsersService/Api/Default/OPTIONS/Resource] AwsSolutions-APIG4: The API does not implement authorization.
+
+[Error at /FederatedAppsyncApiDemoStack/UsersService/Api/Default/OPTIONS/Resource] AwsSolutions-COG4: The API GW method does not use a Cognito user pool authorizer.
+
+[Error at /FederatedAppsyncApiDemoStack/UsersService/Api/Default/POST/Resource] AwsSolutions-APIG4: The API does not implement authorization.
+
+[Error at /FederatedAppsyncApiDemoStack/UsersService/Api/Default/POST/Resource] AwsSolutions-COG4: The API GW method does not use a Cognito user pool authorizer.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/ApolloServer/ServiceRole/Resource] AwsSolutions-IAM4: The IAM user, role, or group uses AWS managed policies.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/ApolloServer/ServiceRole/DefaultPolicy/Resource] AwsSolutions-IAM5[Resource::*]: The IAM entity contains wildcard permissions and does not have a cdk_nag rule suppression with evidence for those permission.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/Api/Resource] AwsSolutions-APIG2: The REST API does not have request validation enabled.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/Api/CloudWatchRole/Resource] AwsSolutions-IAM4: The IAM user, role, or group uses AWS managed policies.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/Api/DeploymentStage.prod/Resource] AwsSolutions-APIG1: The API does not have access logging enabled.
+
+[Warning at /FederatedAppsyncApiDemoStack/ReviewsService/Api/DeploymentStage.prod/Resource] AwsSolutions-APIG3: The REST API stage is not associated with AWS WAFv2 web ACL.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/Api/DeploymentStage.prod/Resource] AwsSolutions-APIG6: The REST API Stage does not have CloudWatch logging enabled for all methods.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/Api/Default/OPTIONS/Resource] AwsSolutions-APIG4: The API does not implement authorization.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/Api/Default/OPTIONS/Resource] AwsSolutions-COG4: The API GW method does not use a Cognito user pool authorizer.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/Api/Default/POST/Resource] AwsSolutions-APIG4: The API does not implement authorization.
+
+[Error at /FederatedAppsyncApiDemoStack/ReviewsService/Api/Default/POST/Resource] AwsSolutions-COG4: The API GW method does not use a Cognito user pool authorizer.
+
+[Error at /FederatedAppsyncApiDemoStack/ProductsService/Api/Resource] AwsSolutions-ASC3: The GraphQL API does not have request leveling logging enabled.
+
+[Error at /FederatedAppsyncApiDemoStack/ProductsService/Api/LambdaDS/ServiceRole/DefaultPolicy/Resource] AwsSolutions-IAM5[Resource::<ProductsServicelambdaResolver55C08055.Arn>:*]: The IAM entity contains wildcard permissions and does not have a cdk_nag rule suppression with evidence for those permission.
+
+[Error at /FederatedAppsyncApiDemoStack/ProductsService/lambdaResolver/ServiceRole/Resource] AwsSolutions-IAM4: The IAM user, role, or group uses AWS managed policies.
+
+[Error at /FederatedAppsyncApiDemoStack/ProductsService/lambdaResolver/ServiceRole/DefaultPolicy/Resource] AwsSolutions-IAM5[Resource::*]: The IAM entity contains wildcard permissions and does not have a cdk_nag rule suppression with evidence for those permission.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Server/ServiceRole/Resource] AwsSolutions-IAM4: The IAM user, role, or group uses AWS managed policies.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Server/ServiceRole/DefaultPolicy/Resource] AwsSolutions-IAM5[Resource::*]: The IAM entity contains wildcard permissions and does not have a cdk_nag rule suppression with evidence for those permission.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Api/Resource] AwsSolutions-APIG2: The REST API does not have request validation enabled.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Api/CloudWatchRole/Resource] AwsSolutions-IAM4: The IAM user, role, or group uses AWS managed policies.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Api/DeploymentStage.prod/Resource] AwsSolutions-APIG1: The API does not have access logging enabled.
+
+[Warning at /FederatedAppsyncApiDemoStack/FederationGateway/Api/DeploymentStage.prod/Resource] AwsSolutions-APIG3: The REST API stage is not associated with AWS WAFv2 web ACL.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Api/DeploymentStage.prod/Resource] AwsSolutions-APIG6: The REST API Stage does not have CloudWatch logging enabled for all methods.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Api/Default/OPTIONS/Resource] AwsSolutions-APIG4: The API does not implement authorization.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Api/Default/OPTIONS/Resource] AwsSolutions-COG4: The API GW method does not use a Cognito user pool authorizer.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Api/Default/POST/Resource] AwsSolutions-APIG4: The API does not implement authorization.
+
+[Error at /FederatedAppsyncApiDemoStack/FederationGateway/Api/Default/POST/Resource] AwsSolutions-COG4: The API GW method does not use a Cognito user pool authorizer.
+
